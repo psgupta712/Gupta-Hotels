@@ -19,7 +19,10 @@ const app = express();
 connectDB();
 
 app.use(cors({
-  origin: ["http://localhost:3000", "http://localhost:5173"],
+  origin: [
+    "https://gupta-hotels-mdiqd1hu1-psgupta712s-projects.vercel.app",
+    "http://localhost:3000",
+  ],
   credentials: true,
 }));
 
