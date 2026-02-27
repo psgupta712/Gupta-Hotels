@@ -2,7 +2,7 @@
 
 const STATS = [
   { num: "1+", label: "Years of Legacy"  },
-  { num: "12",  label: "Properties"        },
+  { num: "25",  label: "Properties"        },
   { num: "8",   label: "Heritage Sites"    },
   { num: "4.9★",label: "Avg Rating"        },
 ];
